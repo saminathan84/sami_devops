@@ -1,1 +1,1 @@
-C:\python27\python review.py
+setlocal & set PATH=C:\python27\ & python review.py
