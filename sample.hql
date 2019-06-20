@@ -1,3 +1,3 @@
 drop table test;
 select * from test;
-select * from test2;
+select * from test3;
